@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
 (Daniel Shwake)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we set up our Github paired with our cloud 9 accound and backup the local files to the repositorys.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Backing up our local repository to the local repository.)
+2. (Backing up our local repository to the remote repository)
+3. (We configured our Github to our c9 workspace.)
 
